@@ -1,0 +1,17 @@
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\bin\Debug\net10.0-windows\sambito_try.exe
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\bin\Debug\net10.0-windows\sambito_try.deps.json
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\bin\Debug\net10.0-windows\sambito_try.runtimeconfig.json
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\bin\Debug\net10.0-windows\sambito_try.dll
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\bin\Debug\net10.0-windows\sambito_try.pdb
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.Form1.resources
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.csproj.GenerateResource.cache
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.AssemblyInfoInputs.cache
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.AssemblyInfo.cs
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.csproj.CoreCompileInputs.cache
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.dll
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\refint\sambito_try.dll
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.pdb
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.genruntimeconfig.cache
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\ref\sambito_try.dll
+C:\Users\Windows User\OneDrive\Desktop\try\PREVIEW\sambito_try\sambito_try\obj\Debug\net10.0-windows\sambito_try.Properties.Resources.resources
